@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:578FCA,100:0D1B2A&height=120&section=header"/>
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá visitante! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> , me chamo Juan Francisco
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá visitante! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> me chamo Juan Francisco
  🛠️ Futuro **Engenheiro de Software** pela [Fiap](https://www.fiap.com.br).<br>
  💡 Em busca de novos aprendizados constantemente, expandindo minha **zona de conforto**!<br>
   🗫 Prezo por um ambiente confiável e saudável nos trabalhos em equipes, que garantem + eficiência!<br>
