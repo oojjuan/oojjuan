@@ -18,7 +18,7 @@
 <div align="center">
   
   # 💻 Habilidades
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cs,css,tailwind,git,react,nodejs,sqlite,mysql&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cs,css,tailwind,git,react,nodejs,mysql,postgresql&perline=6)](https://skillicons.dev)
   
 </div>
 
